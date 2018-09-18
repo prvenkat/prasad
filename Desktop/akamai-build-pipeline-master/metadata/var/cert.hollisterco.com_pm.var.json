@@ -1,0 +1,674 @@
+[
+    {
+        "name": "PMUSER_OUTGOING_URL",
+        "value": "NOT_PRESENT",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_HOST",
+        "value": "%(AK_HOST)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_PATH",
+        "value": "%(AK_PATH)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_QUERYSTRING",
+        "value": "%(AK_QUERY)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_SCHEME",
+        "value": "%(AK_SCHEME)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_GEO_LOCATION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_DEVICE_TYPE",
+        "value": "desktop",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LANGUAGEFIX",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_CROSS_SITE_TRANSFER",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ACCEPT_LANGUAGE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LANG_PREFERENCE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_GEO_FENCING_BYPASS",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TEMP1",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TEMP2",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TEMP3",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TEMP4",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_INCOMING_SCHEME",
+        "value": "%(AK_SCHEME)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_INCOMING_HOST",
+        "value": "%(AK_HOST)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_INCOMING_PATH",
+        "value": "%(AK_PATH)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_INCOMING_QUERY",
+        "value": "%(AK_QUERY)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_DO_REDIRECT",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_COMMANDTYPE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_PATHAPISTORE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ENVIROMENT_PREFIX",
+        "value": "www",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_WORLDSITE",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_UPREF_COOKIE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_UPREF_CURRENCY",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_XSEG",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_PAGEVERSION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_GLOBALVERSION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_REMOVEQUERYSTRING",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_REDIRECTTYPE",
+        "value": "302",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_BYPASSHTTPS",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ORIGIN",
+        "value": "origin-cert.hollisterco.com",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_EMPTY",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_BROWSER_LANGUAGE_BYPASS",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MOBILEHEADER",
+        "value": "NOT_PRESENT",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_REQ_INFO",
+        "value": "%(AK_GHOST_SERVICE_IP):%(AK_REQUEST_ID)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_AKA_MP",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MP_AKA",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TRANSLATED",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_RESPONSE_STATUS",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_DESKTOP_FAILOVER_SITE",
+        "value": "failover-cert.hollisterco.com",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MOBILE_FAILOVER_SITE",
+        "value": "failover-cert.m.hollisterco.com",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_DOMAIN_SUFFIX",
+        "value": "%(AK_DOMAIN)",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LOG_DATA_CUSTOM_FIELD",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_INCOMING_STORE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_OUTGOING_STORE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MP_REQUEST",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MOBILE_LOG",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_MP_LINK_LOG",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_CORS_ORIGIN",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_UPREF_BRAND",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LOCATION_DESTINATION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LOCATION_URL",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LOCATION_QUERY",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_CHECK_301",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ICMP_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_OM_RID_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_OM_MID_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_CMP_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_EMAIL_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TID_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_GCLID_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_LOCALE_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ADOBE_MC_VALUE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAILOVER_QS",
+        "value": "NULL",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAILOVER_SID",
+        "value": "NULL",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAILOVER_CID",
+        "value": "NULL",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAILOVER_LID",
+        "value": "-1",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAILOVER_LANG",
+        "value": "NULL",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_STATIC_FAILOVER_SITE",
+        "value": "failover-static-cert.hollisterco.com",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_WC_AUTHENTICATION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_WC_USERACTIVITY",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_GOOGLESHOP",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_RUA_ON",
+        "value": "false",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_RULEID",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_COOKIE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_APIPATHDEBUG",
+        "value": "false",
+        "description": "",
+        "hidden": true,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_ENV_STAGE",
+        "value": "CERT",
+        "description": "",
+        "hidden": true,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FWD_ORIGIN",
+        "value": "origin-cert.hollisterco.com",
+        "description": "Forward Origin selected.",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_BRAND",
+        "value": "hollisterco",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TRANSLATION_ORIGIN",
+        "value": "",
+        "description": "Translation Origin",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TRANSLATE",
+        "value": "NO",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_NS_BASE_PATH",
+        "value": "hollister",
+        "description": "Netstorage base path",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_NS_WELLKNOWN_PATH",
+        "value": "/hol/well-known/",
+        "description": "Netstorage well-known FMP",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_BRAND_INITIAL",
+        "value": "hol",
+        "description": "anf/hol",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_COUNTRY_CODE",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_EUROPEAN_LOCATION",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_OMNI_EU",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_URL_COUNTRY",
+        "value": "",
+        "description": "",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_OMNI_EU_PATH",
+        "value": "FALSE",
+        "description": "If paths fall under Omni EU condition, use this variable",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_TLSVERSION",
+        "value": "%(AK_TLS_VERSION)",
+        "description": "Track TLS v1 and v1.1 traffic",
+        "hidden": true,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_EDGEAUTH_STATUS",
+        "value": "%(PM_TOKEN1_STATUS)",
+        "description": "captures the edge auth status",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAIL_TEMP_DOWN_FILE",
+        "value": "tempdown.html",
+        "description": "Failover file name - temporarily down",
+        "hidden": false,
+        "sensitive": false
+    },
+    {
+        "name": "PMUSER_FAIL_INT_ERROR_FILE",
+        "value": "internalerror.html",
+        "description": "Failover file name - internal error",
+        "hidden": false,
+        "sensitive": false
+    }
+]
